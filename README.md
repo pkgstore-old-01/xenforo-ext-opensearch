@@ -7,7 +7,7 @@
 | License      | GPL-3.0                                            |
 | Language     | Russian                                            |
 | Requirements | XenForo 2.1                                        |
-| Authors      | [Yu Dunaev](mailto:dun43v@gmail.com)               |
+| Authors      | [Yu Dunaev](mailto:hello@tails.im)               |
 
 Набор технологий, позволяющих веб-сайтам и поисковым системам публиковать результаты поиска в форматах, удобных для распространения и сбора.
 
