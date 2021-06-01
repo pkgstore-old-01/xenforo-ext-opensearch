@@ -5,8 +5,8 @@
   "version_id": 1000870,
   "version_string": "1.0.8",
   "dev": "z1729 Factory",
-  "dev_url": "https://github.com/marketplace-xenforo/xenforo-ext-opensearch",
-  "support_url": "https://github.com/marketplace-xenforo/xenforo-ext-opensearch/issues",
+  "dev_url": "https://github.com/pkgstore/xenforo-ext-opensearch",
+  "support_url": "https://github.com/pkgstore/xenforo-ext-opensearch/issues",
   "require": {
     "XF": [
       2010070,
