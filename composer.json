@@ -1,5 +1,5 @@
 {
-  "name": "marketplace/xenforo-ext-opensearch",
+  "name": "pkgstore/xenforo-ext-opensearch",
   "type": "xenforo-extension",
   "description": "",
   "license": "GPL-3.0-or-later",
